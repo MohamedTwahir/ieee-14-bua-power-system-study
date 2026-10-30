@@ -11,9 +11,6 @@
   <br>
   Using PowerWorld Simulator 21
 </p>
-<b> IEEE 14-Bus Power System Analysis </b>
-
-* Load-Flow Studies and Short-Circuit Analysis using PowerWorld Simulator
 # Overview
 This project focuses on the modelling and analysis of the IEEE 14-bus test power system using PowerWorld Simulator 21.
 
