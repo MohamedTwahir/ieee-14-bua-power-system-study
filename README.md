@@ -88,7 +88,7 @@ The study will investigate:
  
 
 
-#References
+# References
 1. University of Washington, Electrical Engineering, Power Systems Test Case Archive.
 
 2. PowerWorld Corporation, PowerWorld Simulator.
