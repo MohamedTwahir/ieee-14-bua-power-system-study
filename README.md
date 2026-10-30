@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figures/ieee14_one_line.png"
+  <img src="figures/ieee14_one_line.jpg"
        alt="IEEE 14-Bus Power System One-Line Diagram"
        width="850">
 </p>
